@@ -12,10 +12,10 @@
 
 | Read files      | link |
 | ----------- | ----------- |
-| Read01      | [Link 1]()      |
-| Read02      | [Link 2]()      |
-| Read03      | [Link 3]()      |
-| Read04      | [Link 4]()      |
+| Read01      | [Link 1](https://mahmoud-khader.github.io/reading-notes-201d25/Class-01)      |
+| Read02      | [Link 2](https://mahmoud-khader.github.io/reading-notes-201d25/Class-02)      |
+| Read03      | [Link 3](https://mahmoud-khader.github.io/reading-notes-201d25/Class-03)      |
+| Read04      | [Link 4](https://mahmoud-khader.github.io/reading-notes-201d25/Class-04)      |
 | Read05      | [Link 5]()      |
 | Read06      | [Link 6]()      |
 | Read07      | [Link 7]()      |

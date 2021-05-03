@@ -18,9 +18,9 @@
 | Read04      | [Link 4](https://mahmoud-khader.github.io/reading-notes-201d25/Class-04)      |
 | Read05      | [Link 5](https://mahmoud-khader.github.io/reading-notes-201d25/Class-05)      |
 | Read06      | [Link 6](https://mahmoud-khader.github.io/reading-notes-201d25/Class-06)      |
-| Read07      | [Link 7]()      |
-| Read08      | [Link 8]()      |
-| Read09      | [Link 9]()      |
+| Read07      | [Link 7](https://mahmoud-khader.github.io/reading-notes-201d25/Class-07)      |
+| Read08      | [Link 8](https://mahmoud-khader.github.io/reading-notes-201d25/Class-08)      |
+| Read09      | [Link 9](https://mahmoud-khader.github.io/reading-notes-201d25/Class-09)      |
 | Read10      | [Link 10]()      |
 | Read11      | [Link 11]()      |
 | Read12      | [Link 12]()      |

@@ -21,7 +21,7 @@
 | Read07      | [Link 7](https://mahmoud-khader.github.io/reading-notes-201d25/Class-07)      |
 | Read08      | [Link 8](https://mahmoud-khader.github.io/reading-notes-201d25/Class-08)      |
 | Read09      | [Link 9](https://mahmoud-khader.github.io/reading-notes-201d25/Class-09)      |
-| Read10      | [Link 10]()      |
+| Read10      | [Link 10](https://mahmoud-khader.github.io/reading-notes-201d25/Class-10)      |
 | Read11      | [Link 11]()      |
 | Read12      | [Link 12]()      |
 | Read13      | [Link 13]()      |
